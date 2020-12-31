@@ -1,0 +1,85 @@
+/**Page Styles**/
+body {
+  background-image: url(wood2.jpg);
+  background-color: #150505;
+  width: 80%;
+  margin: 0 auto;
+}
+
+/**Typography**/
+h1 {
+  text-align: center;
+  font-family: 'calligraffitiregular', serif;
+  font-weight: normal;
+  font-size: 3.5em;
+  color: #daa520;
+}
+
+h2, h3, nav, b {
+  font-family: 'open_sansbold', sans-serif;
+  font-weight: normal;
+}
+
+h3.first, p.first {
+  margin: 0;
+}
+
+p, section li {
+  font-family: 'open_sansregular', sans-serif;
+}
+
+/**Navigation**/
+nav ul {
+  list-style: none;
+  text-align: center;
+}
+
+nav li {
+  color: #888;
+  display: inline-block;
+  margin: 0 3%;
+  padding: 5px 10px;
+}
+
+nav li.active {
+  border: 1px solid #53868B;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+nav a, footer a {
+    color: #53868B;
+}
+
+/**Content**/
+section {
+  background: rgba(255, 228, 196, 0.7);
+  padding: 15px;
+}
+
+section a {
+	color: #8b6508;
+}
+
+img {
+  display: block;
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  height: auto;
+  width: auto;
+  max-height: 200px;
+  max-width: 200px;
+  border: 5px solid #150505;
+}
+
+footer {
+  text-align: center;
+  color: #ffe4c4;
+}
