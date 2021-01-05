@@ -1,5 +1,5 @@
 # Portfolio Website
-This is the data for my copywriting portfolio website. You can view it here. {add homepage link later}
+This is the data for my copywriting portfolio website. You can view it [here.](https://joycejlewis.com/)
 ## Credits
 Background texture by WebTreats ETC.
 ## Copyright
